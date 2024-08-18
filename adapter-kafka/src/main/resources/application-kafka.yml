@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: adapter-kafka
+
+kafka:
+  host: 'localhost:9092'
+  topic: 'email-event'
+  group-con: con-server

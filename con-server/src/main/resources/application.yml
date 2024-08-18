@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: con-server
+
+  mail:
+    username: ''
+    password: ''
+    host: smtp.gmail.com
+    port: 587
+
+server:
+  port: 8081
